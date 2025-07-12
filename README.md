@@ -4,7 +4,7 @@ This Unity project replicates the menu design from the Steer Elite 2025 Tech UI 
 
 ## 🔗 Links
 
-- **GitHub Repository:** https://github.com/besmelh/steer-tech-ui
+- **GitHub Repository:** https://github.com/besmelh/pixel-menu
 
 ## ✅ Features
 
