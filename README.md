@@ -27,6 +27,9 @@ This Unity project replicates the menu design from the Steer Elite 2025 Tech UI 
 
 ## 📸 Screenshots
 
+- Demo GIF
+  ![pixel menu demo gif](screenshots/pixel-menu-demo.gif)
+
 - 1700x850
   ![1700x850](screenshots/1700x850.png)
 
